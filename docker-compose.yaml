@@ -11,6 +11,7 @@ services:
       USERNAME: ${USERNAME}
       PASSWORD: ${PASSWORD}
       TWS_SETTINGS_PATH: /settings
+      IBC_TradingMode: paper
       # TWOFA_TIMEOUT_ACTION: restart
       # GATEWAY_OR_TWS: tws
       #
