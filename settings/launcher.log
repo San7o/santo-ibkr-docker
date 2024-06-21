@@ -1,0 +1,401 @@
+2024-06-21 13:13:36.047 [EO] INFO  [JTS-Main] - OvernightManager.dayInit: new values: dayOfTheWeek: 6 (Fri), YYYYMMofToday: 202406, YYYYMMDDofToday: 20240621, m_todayDate: 20240621, dueToChangeInTimezone: false
+2024-06-21 13:13:36.049 [EO] INFO  [JTS-Main] - Created on: 20240621
+2024-06-21 13:13:36.049 [EO] INFO  [JTS-Main] - ------------------------------- TWS RESTART --------------------------------
+2024-06-21 13:13:36.050 [EO] INFO  [JTS-Main] - installer version: unknown, installer type: standalone, install dir: 'null', Jts dir: '/settings', VM options file: 'null'
+2024-06-21 13:13:36.052 [EO] INFO  [JTS-Main] - PROXY Installed custom selector
+2024-06-21 13:13:36.055 [EO] INFO  [JTS-Main] - LOCALE: Property locale_to_use=null
+2024-06-21 13:13:36.058 [EO] INFO  [JTS-Main] - LOCALE: JTS Locale=en_US  country=United States  variant=
+2024-06-21 13:13:36.059 [EO] INFO  [JTS-Main] - Region: Custom
+2024-06-21 13:13:36.060 [EO] WARN  [JTS-Main] - The locales jar directory resolved to '/settings/jars' ('installDir' system property is not set).
+2024-06-21 13:13:36.060 [EO] WARN  [JTS-Main] - The locales jar directory resolved to '/settings/jars' ('installDir' system property is not set).
+2024-06-21 13:13:36.060 [EO] INFO  [JTS-Main] - Locale from ini: en
+2024-06-21 13:13:36.061 [EO] INFO  [JTS-Main] - Locale=en_US  country=United States  variant=
+2024-06-21 13:13:36.063 [EO] INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage]
+2024-06-21 13:13:36.065 [EO] INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage_en]
+2024-06-21 13:13:36.065 [EO] INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage_en_US]
+2024-06-21 13:13:36.066 [EO] INFO  [JTS-Main] - LOCALE:  type: launcher intended: en_US actual:  size: 497
+2024-06-21 13:13:36.078 [EO] INFO  [JTS-Main] - settings dir: '/settings'
+2024-06-21 13:13:36.080 [EO] INFO  [JTS-Main] - Verifying environment [entryPoint=TWS_STANDALONE]...
+2024-06-21 13:13:36.097 [EO] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.LocalizationBundle]
+2024-06-21 13:13:36.097 [EO] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.LocalizationBundle_en]
+2024-06-21 13:13:36.097 [EO] INFO  [JTS-Main] - prohibiting resource lookup [org/jfree/chart/LocalizationBundle_en.properties]
+2024-06-21 13:13:36.097 [EO] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.LocalizationBundle_en_US]
+2024-06-21 13:13:36.098 [EO] INFO  [JTS-Main] - prohibiting resource lookup [org/jfree/chart/LocalizationBundle_en_US.properties]
+2024-06-21 13:13:36.098 [EO] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.plot.LocalizationBundle]
+2024-06-21 13:13:36.098 [EO] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.plot.LocalizationBundle_en]
+2024-06-21 13:13:36.100 [EO] INFO  [JTS-Main] - prohibiting resource lookup [org/jfree/chart/plot/LocalizationBundle_en.properties]
+2024-06-21 13:13:36.100 [EO] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.plot.LocalizationBundle_en_US]
+2024-06-21 13:13:36.101 [EO] INFO  [JTS-Main] - prohibiting resource lookup [org/jfree/chart/plot/LocalizationBundle_en_US.properties]
+2024-06-21 13:13:36.385 [EO] INFO  [JTS-Main] - jfreechart version =1.0.8
+2024-06-21 13:13:36.385 [EO] INFO  [JTS-Main] - jcommon version =1.0.12
+2024-06-21 13:13:36.386 [EO] INFO  [JTS-Main] - JDOMFactory Class =interface org.jdom.JDOMFactory
+2024-06-21 13:13:36.387 [EO] INFO  [JTS-Main] - hsqldb jdbc =class org.hsqldb.jdbcDriver 2.4
+2024-06-21 13:13:36.525 [EO] INFO  [JTS-Main] - LauncherFontUpdater: simulatehighdefscreen=false
+2024-06-21 13:13:36.526 [EO] INFO  [JTS-Main] - LauncherFontUpdater: Screen dimensions=1920x1080
+2024-06-21 13:13:36.526 [EO] INFO  [JTS-Main] - LauncherFontUpdater: highres=false
+2024-06-21 13:13:36.526 [EO] INFO  [JTS-Main] - LauncherFontUpdater: FontSize=16
+2024-06-21 13:13:36.526 [EO] INFO  [JTS-Main] - initPreUI() - entry
+2024-06-21 13:13:36.532 [EO] INFO  [JTS-Main] - Build 10.29.1g, May 21, 2024 4:54:54 PM
+2024-06-21 13:13:36.551 [EO] INFO  [JTS-Main] - LookAndFeelChangedListener installed
+2024-06-21 13:13:36.554 [EO] INFO  [JTS-Main] - JtsLookAndFeel initialized
+2024-06-21 13:13:36.789 [EO] INFO  [JTS-Main] - Current LAF: TWS LAF
+2024-06-21 13:13:36.789 [EO] INFO  [JTS-Main] - initPreUI() - exit
+2024-06-21 13:13:37.147 [EO] INFO  [AWT-EventQueue-0] - Install4jAutoUpdateService initialized [props=LauncherProperties[updateDownloadUrl=null,skipUpdateCheck=false,nightlyEnabled=false,channelNameArg=null,channelName=latest,channelChanged=false,jtsConfigDir=/settings,apiPort=null,sessionId=null,installDir=null,exeName=null]].
+2024-06-21 13:13:37.261 [EO] INFO  [AWT-EventQueue-0] - Default timezone:Etc/UTC
+2024-06-21 13:13:37.265 [EO] INFO  [AWT-EventQueue-0] - Starting GstatMessageMgr...
+2024-06-21 13:13:37.266 [EO] WARN  [JTS-GstatMessageMgr-4] - Misc URLs have not been received. Resending request...
+2024-06-21 13:13:37.290 [EO] INFO  [AWT-EventQueue-0] - Started on 20240621-13:13:37
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - Default timezone:Etc/UTC name:Coordinated Universal Time dst:0
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - java version = 1.8.0_202
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - sun.arch.data.model = 64
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - os = Linux
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - os version = 6.1.80
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - os architecture = 32
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - runtime = Java(TM) SE Runtime Environment
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - vendor = Oracle Corporation
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - vm name = Java HotSpot(TM) 64-Bit Server VM
+2024-06-21 13:13:37.291 [EO] INFO  [AWT-EventQueue-0] - username = 'santobroker'
+2024-06-21 13:13:37.450 [EO] INFO  [AWT-EventQueue-0] - Basic init done. Login window shown
+2024-06-21 13:13:37.813 [EO] INFO  [AWT-EventQueue-0] - Stopping GstatMessageMgr...
+2024-06-21 13:13:37.815 [EO] INFO  [AWT-EventQueue-0] - LoginWindow.onLogin() - request MiscUrls
+2024-06-21 13:13:37.816 [EO] INFO  [AWT-EventQueue-0] - Setting dir is /settings/
+2024-06-21 13:13:37.818 [EO] INFO  [AWT-EventQueue-0] - PROXY Cleared HTTP proxy: no valid proxy is present (passing on :0)
+2024-06-21 13:13:37.828 [EO] INFO  [AWT-EventQueue-0] - host = ndc1.ibllc.com
+2024-06-21 13:13:37.828 [EO] INFO  [AWT-EventQueue-0] - remotePort = 4000
+2024-06-21 13:13:37.828 [EO] INFO  [AWT-EventQueue-0] - localPort = 0
+2024-06-21 13:13:37.837 [EO] INFO  [AWT-EventQueue-0] - SPLASH Creating screen with 60 steps
+2024-06-21 13:13:37.906 [EO] INFO  [AWT-EventQueue-0] - UserCredentials.sessionId() [this=1259992009,old=null,new=66757c81.0386].
+2024-06-21 13:13:37.907 [EO] INFO  [AWT-EventQueue-0] - CONN CALC: Last connection attempt time is cleared!
+2024-06-21 13:13:37.907 [EO] INFO  [AWT-EventQueue-0] - CONN CALC: Last connection set as now:13:13:37:907
+2024-06-21 13:13:37.907 [EO] INFO  [AWT-EventQueue-0] - Prelogin delay:0
+2024-06-21 13:13:37.909 [EO] INFO  [AWT-EventQueue-0] - Network monitor is activated
+2024-06-21 13:13:37.909 [EO] INFO  [JTS-Login-7] - Starting launcher login thread
+2024-06-21 13:13:37.910 [EO] INFO  [JTS-Login-7] - LauncherLoginThread.runLoginWithUI()[hotBackupStrategy=ON,loginAttempt=1,socketDelay=20000].
+2024-06-21 13:13:37.911 [EO] INFO  [JTS-Login-7] - SPLASH Connecting to server
+2024-06-21 13:13:37.913 [EO] INFO  [JTS-Login-7] - ### startLogin startTime=1718975617906
+2024-06-21 13:13:37.913 [EO] INFO  [JTS-Login-7] - ### loginAttempt loginAttempt=1
+2024-06-21 13:13:37.913 [EO] INFO  [JTS-Login-7] - Connecting ndc1.ibllc.com:4001 (SSL) timeout=20000...
+2024-06-21 13:13:37.913 [EO] INFO  [JTS-Login-7] - ### onSocketOpenStart socketOpenStart=1718975617913; endPoint=ndc1.ibllc.com; port=4001
+2024-06-21 13:13:38.455 [EO] INFO  [JTS-Login-7] - ### onSocketOpenEnd socketOpenEnd=1718975618455
+2024-06-21 13:13:38.455 [EO] INFO  [JTS-Login-7] - Connected to ndc1.ibllc.com:4001 (SSL)/64.190.197.40 remote-ip on local port 0 socket local addrs:port /172.18.0.2:53706
+2024-06-21 13:13:38.456 [EO] INFO  [JTS-Login-7] - Updating machine info [connectionAddress=/172.18.0.2]...
+2024-06-21 13:13:38.457 [EO] INFO  [JTS-Login-7] - Creating unique random...
+2024-06-21 13:13:38.458 [EO] INFO  [JTS-Login-7] - id=94f366f7
+2024-06-21 13:13:38.458 [EO] INFO  [JTS-Login-7] - Resolving MAC address...
+2024-06-21 13:13:38.459 [EO] INFO  [JTS-Login-7] - MACNetworkInfo created <94f366f7|02:42:AC:12:00:02|172.18.0.2>.
+2024-06-21 13:13:38.459 [EO] INFO  [JTS-Login-7] - JTSAuthConnection.onConnected(): lastKnownCipherStatus=INSECURE
+2024-06-21 13:13:38.459 [EO] INFO  [JTS-Login-7] - Changing state for connection from PRELOGON to PRELOGON in B 1140752823: SessionSocket:1
+2024-06-21 13:13:38.460 [EO] INFO  [JTS-Login-7] - Authenticating
+2024-06-21 13:13:38.469 [EO] INFO  [JTS-CCPListenerS1-9] - Starting listener thread [sessionID=1]...
+2024-06-21 13:13:38.479 [EO] INFO  [JTS-Login-7] - AuthTimeoutMonitor-CCP: deactivate
+2024-06-21 13:13:38.480 [EO] INFO  [JTS-Login-7] - AuthTimeoutMonitor-CCP: timeout=20000
+2024-06-21 13:13:38.480 [EO] INFO  [JTS-Login-7] - AuthTimeoutMonitor-CCP: activate
+2024-06-21 13:13:38.480 [EO] INFO  [JTS-AuthTimeoutMonitorThread-CCP-11] - Starting auth timeout monitor thread for CCP
+2024-06-21 13:13:38.481 [EO] INFO  [JTS-Login-7] - LOGIN_TIME_MONITOR	 false 13:13:38:481 since start = 0 thread delay = 1 global delay = 0 tag=null, cls=AuthDispatcher method=connect
+2024-06-21 13:13:38.481 [EO] INFO  [JTS-Login-7] - SPLASH -0001 step 1 AuthDispatcher.connect
+2024-06-21 13:13:38.481 [EO] INFO  [JTS-Login-7] - Sending connect request
+2024-06-21 13:13:38.481 [EO] INFO  [JTS-AuthDispatcherS1-10] - Starting dispatcher thread [sessionID=1]...
+2024-06-21 13:13:38.482 [EO] INFO  [JTS-Login-7] - AuthDispatcher.initNSMsgVersionLimits: minVersion=38, maxVersion=49
+2024-06-21 13:13:38.483 [EO] INFO  [JTS-Login-7] - AuthDispatcher.NSConnectRequest: userSessionID=66757c81.0386, beeDemoType=NULL
+2024-06-21 13:13:38.483 [EO] INFO  [JTS-Login-7] - ### onNsMsg loginMessageReq=1718975618483; brandNewUser=true
+2024-06-21 13:13:38.483 [EO] INFO  [JTS-Login-7] - NSConnectRequest: sending CLIENT_USE_SSL=0x80000
+2024-06-21 13:13:38.516 [EO] INFO  [AWT-EventQueue-0] - SplashScreen: using ads manager
+2024-06-21 13:13:38.520 [EO] INFO  [AWT-EventQueue-0] - AdImageContainer: start build ads UI
+2024-06-21 13:13:38.525 [EO] INFO  [JTS-CachedThreadExecutor-13] - AdManager: NEXT_AD request https://api.ibkr.com/tws.proxy/info/next?platform=dTWS&size=1200x1000&lang=en&version=10291&build=latest
+2024-06-21 13:13:38.554 [EO] INFO  [JTS-CachedThreadExecutor-13] - AdManager: sending request with header X-USERNAME
+2024-06-21 13:13:38.789 [EO] INFO  [JTS-CachedThreadExecutor-13] - AdManager: NEXT_AD ad is not available
+2024-06-21 13:13:38.790 [EO] ERROR [JTS-CachedThreadExecutor-13] - AdsManager: get next image failed with status 404
+2024-06-21 13:13:38.791 [EO] INFO  [AWT-EventQueue-0] - AdImageContainer: display regular background image without ads
+2024-06-21 13:13:38.791 [EO] INFO  [AWT-EventQueue-0] - Splashscreen: should not show ads
+2024-06-21 13:13:38.831 [EO] INFO  [JTS-Login-7] - SPLASH Authenticating
+2024-06-21 13:13:38.831 [EO] INFO  [JTS-CCPListenerS1-9] - Initial listener buffer size is 65536.
+2024-06-21 13:13:38.831 [EO] INFO  [JTS-CCPListenerS1-9] - Listener thread [sessionID=1] is ready to process messages.
+2024-06-21 13:13:38.832 [EO] INFO  [JTS-Login-7] - Terminating launcher login thread
+2024-06-21 13:13:38.937 [EO] INFO  [JTS-AuthDispatcherS1-10] - SPLASH 0456 step 2 AuthDispatcher.processDataItr
+2024-06-21 13:13:38.938 [EO] INFO  [JTS-AuthDispatcherS1-10] - set nsMsgVersion: context=AuthStart; version=49
+2024-06-21 13:13:38.939 [EO] INFO  [JTS-AuthDispatcherS1-10] - Received NS_AUTH_START: 1
+2024-06-21 13:13:38.941 [EO] INFO  [JTS-AuthDispatcherS1-10] - pwd time to expiry ms: 2383400782000 days: 27586
+2024-06-21 13:13:38.941 [EO] INFO  [JTS-AuthDispatcherS1-10] - Long pwd allowed: true
+2024-06-21 13:13:38.941 [EO] INFO  [JTS-AuthDispatcherS1-10] -  NS_AUTH_START version=49 pwd=1 soft=0 token(s)=[token=0] initialTokenType=PWD authenticationType=MARKET_DATA_CONNECTION identityHashcode=1275911429
+2024-06-21 13:13:38.943 [EO] INFO  [JTS-AuthDispatcherS1-10] - ### onStartAuthentication
+2024-06-21 13:13:38.943 [EO] INFO  [JTS-AuthDispatcherS1-10] - Starting password Authentication
+2024-06-21 13:13:38.943 [EO] INFO  [JTS-AuthDispatcherS1-10] - ### onXyzAuthQuery
+2024-06-21 13:13:38.943 [EO] INFO  [JTS-AuthDispatcherS1-10] - sendXYZMessage: 777
+2024-06-21 13:13:38.944 [EO] INFO  [JTS-AuthDispatcherS1-10] - UserCredentials.setFrom() [this=552151430,other=1259992009,old=null,new=66757c81.0386].
+2024-06-21 13:13:39.048 [EO] INFO  [JTS-AuthDispatcherS1-10] - Receiver: 777
+2024-06-21 13:13:39.048 [EO] ERROR [JTS-AuthDispatcherS1-10] - ERROR: Received twslaunch.jauthentication.M with userName NOT PRINTED in it - this is not expected
+2024-06-21 13:13:39.049 [EO] INFO  [JTS-AuthDispatcherS1-10] - processXYZMessage: 777, protocol version: 49
+2024-06-21 13:13:39.049 [EO] INFO  [JTS-AuthDispatcherS1-10] - Received AUTH_PARAMS
+2024-06-21 13:13:39.049 [EO] INFO  [JTS-AuthDispatcherS1-10] - ### onXyzAuthParams
+2024-06-21 13:13:39.051 [EO] INFO  [JTS-AuthDispatcherS1-10] - sendXYZMessage: 777
+2024-06-21 13:13:39.152 [EO] INFO  [JTS-AuthDispatcherS1-10] - SPLASH 0215 step 2 AuthDispatcher.processDataItr
+2024-06-21 13:13:39.153 [EO] INFO  [JTS-AuthDispatcherS1-10] - Receiver: 777
+2024-06-21 13:13:39.153 [EO] ERROR [JTS-AuthDispatcherS1-10] - ERROR: Received twslaunch.jauthentication.M with userName NOT PRINTED in it - this is not expected
+2024-06-21 13:13:39.153 [EO] INFO  [JTS-AuthDispatcherS1-10] - processXYZMessage: 777, protocol version: 49
+2024-06-21 13:13:39.154 [EO] INFO  [JTS-AuthDispatcherS1-10] - Received SERVER_PARAMS
+2024-06-21 13:13:39.160 [EO] INFO  [JTS-AuthDispatcherS1-10] - Session Token received in AuthenticationMessageXYZ=9629cXXXXX.., messageId=SERVER_KEY (4)
+2024-06-21 13:13:39.161 [EO] INFO  [JTS-AuthDispatcherS1-10] - sendXYZMessage: 777
+2024-06-21 13:13:39.264 [EO] INFO  [JTS-AuthDispatcherS1-10] - Receiver: 777
+2024-06-21 13:13:39.264 [EO] ERROR [JTS-AuthDispatcherS1-10] - ERROR: Received twslaunch.jauthentication.M with userName NOT PRINTED in it - this is not expected
+2024-06-21 13:13:39.265 [EO] INFO  [JTS-AuthDispatcherS1-10] - processXYZMessage: 777, protocol version: 49
+2024-06-21 13:13:39.265 [EO] INFO  [JTS-AuthDispatcherS1-10] - Received AUTH_RESULT
+2024-06-21 13:13:39.265 [EO] INFO  [JTS-AuthDispatcherS1-10] - ### onXyzAuthServerProof
+2024-06-21 13:13:39.265 [EO] INFO  [JTS-AuthDispatcherS1-10] - Passed pwd authentication.
+2024-06-21 13:13:39.265 [EO] INFO  [JTS-AuthDispatcherS1-10] - Authentication completed.
+2024-06-21 13:13:39.265 [EO] INFO  [JTS-AuthDispatcherS1-10] - ### onAuthenticationCompleted tokenProtocol=0; authenticated=true
+2024-06-21 13:13:39.266 [EO] INFO  [JTS-AuthDispatcherS1-10] - setting session token in AuthenticationHandler: authenticationType=MARKET_DATA_CONNECTION hashCode=1275911429 new=XYZSessionToken[type=SOFT,token=9629cXXXXX..] old=null ctciOld=null
+2024-06-21 13:13:39.266 [EO] INFO  [JTS-AuthDispatcherS1-10] - ccp session token non-CTCI is set as XYZSessionToken[type=SOFT,token=9629cXXXXX..] 
+2024-06-21 13:13:39.513 [EO] INFO  [JTS-AuthDispatcherS1-10] - SPLASH 0361 step 2 AuthDispatcher.processDataItr
+2024-06-21 13:13:39.513 [EO] INFO  [JTS-AuthDispatcherS1-10] - Received NS_CONNECT_RESPONSE
+2024-06-21 13:13:39.514 [EO] INFO  [JTS-AuthDispatcherS1-10] - Received CCP connect features: [TST, ONELOGON].
+2024-06-21 13:13:39.515 [EO] INFO  [JTS-AuthDispatcherS1-10] - Log encryption support is enabled [authType=MARKET_DATA_CONNECTION,logKeyId=aaa,logKey=***,logUploadKey=dibggizzul].
+2024-06-21 13:13:39.516 [EO] INFO  [JTS-AuthDispatcherS1-10] - CCP sent paperUser NOT PRINTED for prodUser NOT PRINTED
+2024-06-21 13:13:39.517 [EO] INFO  [JTS-AuthDispatcherS1-10] - UserCredentials.setFrom() [this=552151430,other=1259992009,old=66757c81.0386,new=66757c81.0386].
+2024-06-21 13:13:39.518 [EO] INFO  [JTS-AuthDispatcherS1-10] - COMPETE [msg=193.205.210.76/20240621-13:08:59].
+2024-06-21 13:13:39.520 [EO] INFO  [JTS-AuthDispatcherS1-10] - Competition detected: from IP=193.205.210.76 logged at=2024-06-21T13:08:59.000+0000
+2024-06-21 13:13:39.521 [EO] INFO  [JTS-AuthDispatcherS1-10] - CONN CALC: Last connection attempt time is cleared!
+2024-06-21 13:13:39.521 [EO] INFO  [JTS-AuthDispatcherS1-10] - AuthTimeoutMonitor-CCP: pause
+2024-06-21 13:13:39.525 [EO] ERROR [AWT-EventQueue-0] - Competition ip: 193.205.210.76
+2024-06-21 13:13:45.214 [EO] INFO  [AWT-EventQueue-0] - Competing selection: disconnect another session
+2024-06-21 13:13:45.215 [EO] INFO  [AWT-EventQueue-0] - Reconnection time cleared: argClearBackoff=true base=0 range=5000 next=0 disconnected=0
+2024-06-21 13:13:45.215 [EO] INFO  [AWT-EventQueue-0] - Continue logon
+2024-06-21 13:13:45.215 [EO] INFO  [AWT-EventQueue-0] - AuthTimeoutMonitor-CCP: resume, idleTime=5694
+2024-06-21 13:13:45.219 [EO] INFO  [JTS-NewCommPort-19] - AuthDispatcher.newCommPort()[userDirname=pbignpokfdbokepcmgjpmnnkennhhplmlnjilkmc,restart=,authToken=null,ccpToken=XYZSessionToken[type=SOFT,token=9629cXXXXX..]].
+2024-06-21 13:13:45.220 [EO] INFO  [JTS-NewCommPort-19] - Daily auto-restart is not enabled.
+2024-06-21 13:13:45.223 [EO] INFO  [JTS-NewCommPort-19] - Sending NSNewcommPort [tokenMask=2,tokens=XYZSessionToken[type=SOFT,token=9629cXXXXX..]],shortTokenHashes=10e232d2]...
+2024-06-21 13:13:45.228 [EO] INFO  [JTS-NewCommPort-19] - SPLASH 5711 step 3 AuthDispatcher.send
+2024-06-21 13:13:45.515 [EO] INFO  [JTS-AuthDispatcherS1-10] - SPLASH 0290 step 4 AuthDispatcher.processDataItr
+2024-06-21 13:13:45.515 [EO] INFO  [JTS-AuthDispatcherS1-10] - Received NS_FIX_START
+2024-06-21 13:13:45.515 [EO] INFO  [JTS-AuthDispatcherS1-10] - ### onNsFixStart
+2024-06-21 13:13:45.517 [EO] INFO  [JTS-PostAuthenticateS1-20] - Interrupting dispatcher [sessionID=1]...
+2024-06-21 13:13:45.518 [EO] INFO  [JTS-AuthDispatcherS1-10] - Dispatcher thread terminating [sessionID=1,interrupted=true]...
+2024-06-21 13:13:45.518 [EO] INFO  [JTS-PostAuthenticateS1-20] - AuthTimeoutMonitor-CCP: deactivate
+2024-06-21 13:13:45.519 [EO] INFO  [JTS-AuthTimeoutMonitorThread-CCP-11] - Terminating auth timeout monitor thread for CCP
+2024-06-21 13:13:45.519 [EO] INFO  [JTS-PostAuthenticateS1-20] - Authentication complete
+2024-06-21 13:13:45.519 [EO] INFO  [JTS-PostAuthenticateS1-20] - Creating a FixLogonHandlerFactory instance...
+2024-06-21 13:13:45.520 [EO] INFO  [JTS-PostAuthenticateS1-20] - Instance created.
+2024-06-21 13:13:45.539 [EO] INFO  [JTS-PostAuthenticateS1-20] - jfreechart version =1.0.8
+2024-06-21 13:13:45.539 [EO] INFO  [JTS-PostAuthenticateS1-20] - jcommon version =1.0.12
+2024-06-21 13:13:45.539 [EO] INFO  [JTS-PostAuthenticateS1-20] - JDOMFactory Class =interface org.jdom.JDOMFactory
+2024-06-21 13:13:45.539 [EO] INFO  [JTS-PostAuthenticateS1-20] - hsqldb jdbc =class org.hsqldb.jdbcDriver 2.4
+2024-06-21 13:13:45.542 [EO] INFO  [JTS-PostAuthenticateS1-20] - Changing state for connection from PRELOGON to PRELOGON in B 1140752823: SessionSocket:1
+2024-06-21 13:13:45.542 [EO] INFO  [JTS-PostAuthenticateS1-20] - createOrRenameToNewStyleUserDirectory: create newDir=/settings/pbignpokfdbokepcmgjpmnnkennhhplmlnjilkmc
+2024-06-21 13:13:45.552 [EO] INFO  [AWT-EventQueue-0] - initPreUI() - entry
+2024-06-21 13:13:45.554 [EO] INFO  [AWT-EventQueue-0] - jtsLookAndFeel uninitialized
+2024-06-21 13:13:45.554 [EO] INFO  [AWT-EventQueue-0] - JtsLookAndFeel initialized
+2024-06-21 13:13:45.562 [EO] INFO  [JTS-PostAuthenticateS1-20] - performLogSwitch() [force=false]
+2024-06-21 13:13:45.564 [EO] INFO  [AWT-EventQueue-0] - Current LAF: TWS LAF
+2024-06-21 13:13:45.564 [EO] INFO  [AWT-EventQueue-0] - initPreUI() - exit
+2024-06-21 13:13:45.571 [EO] INFO  [JTS-PostAuthenticateS1-20] - Switching to a new encrypted log...
+2024-06-21 13:16:43.586 [SM] INFO  [JTS-Main] - ------------------------------- TWS RESTART --------------------------------
+2024-06-21 13:16:43.588 [SM] INFO  [JTS-Main] - installer version: unknown, installer type: standalone, install dir: 'null', Jts dir: '/settings', VM options file: 'null'
+2024-06-21 13:16:43.591 [SM] INFO  [JTS-Main] - PROXY Installed custom selector
+2024-06-21 13:16:43.662 [SM] INFO  [JTS-Main] - Setting custom timezone: Etc/UTC
+2024-06-21 13:16:43.667 [SM] INFO  [JTS-Main] - LOCALE: Property locale_to_use=null
+2024-06-21 13:16:43.668 [SM] INFO  [JTS-Main] - LOCALE: JTS Locale=en_US  country=United States  variant=
+2024-06-21 13:16:43.669 [SM] INFO  [JTS-Main] - Region: Custom
+2024-06-21 13:16:43.670 [SM] WARN  [JTS-Main] - The locales jar directory resolved to '/settings/jars' ('installDir' system property is not set).
+2024-06-21 13:16:43.671 [SM] INFO  [JTS-Main] - Starting to download 'https://download2.interactivebrokers.com/java/classes/locales.jar' using HotBackup 'https://download2.interactivebrokers.com/java/classes/locales.jar'
+2024-06-21 13:16:44.329 [SM] INFO  [JTS-Main] - getFileFromUrl: dest=/settings/jars/locales.jar new
+2024-06-21 13:16:44.401 [SM] INFO  [JTS-Main] - Finished downloading file [path=/java/classes/locales.jar,startPosition=0,totalBytesRead=114646,fileLen=114646,remoteLength=114646].
+2024-06-21 13:16:44.401 [SM] INFO  [JTS-Main] - LOCALE: finished downloading /settings/jars/locales.jar
+2024-06-21 13:16:44.401 [SM] WARN  [JTS-Main] - The locales jar directory resolved to '/settings/jars' ('installDir' system property is not set).
+2024-06-21 13:16:44.401 [SM] WARN  [JTS-Main] - The locales jar directory resolved to '/settings/jars' ('installDir' system property is not set).
+2024-06-21 13:16:44.403 [SM] INFO  [JTS-Main] - DocumentBuilderFactory=jar:file:/opt/i4j_jres/Oda-jK0QgTEmVssfllLP/1.8.0_202/lib/rt.jar!/com/sun/org/apache/xerces/internal/jaxp/DocumentBuilderFactoryImpl.class
+2024-06-21 13:16:44.427 [SM] INFO  [JTS-Main] - LOCALE: loaded 9 supported locales
+2024-06-21 13:16:44.435 [SM] INFO  [JTS-Main] - LOCALE: loaded 8 countries
+2024-06-21 13:16:44.435 [SM] WARN  [JTS-Main] - The locales jar directory resolved to '/settings/jars' ('installDir' system property is not set).
+2024-06-21 13:16:44.438 [SM] INFO  [JTS-Main] - Locale from ini: en
+2024-06-21 13:16:44.438 [SM] INFO  [JTS-Main] - LOCALE: created classloader java.net.URLClassLoader@4fb3ee4e with file:/settings/jars/locales.jar, parent: sun.misc.Launcher$AppClassLoader@60e53b93
+2024-06-21 13:16:44.439 [SM] INFO  [JTS-Main] - Locale=en_US  country=United States  variant=
+2024-06-21 13:16:44.441 [SM] INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage]
+2024-06-21 13:16:44.443 [SM] INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage_en]
+2024-06-21 13:16:44.443 [SM] INFO  [JTS-Main] - prohibiting class lookup [twslaunch.ji18n.LauncherLanguage_en_US]
+2024-06-21 13:16:44.444 [SM] INFO  [JTS-Main] - LOCALE:  type: launcher intended: en_US actual:  size: 497
+2024-06-21 13:16:44.456 [SM] INFO  [JTS-Main] - settings dir: '/settings'
+2024-06-21 13:16:44.458 [SM] INFO  [JTS-Main] - Verifying environment [entryPoint=TWS_STANDALONE]...
+2024-06-21 13:16:44.472 [SM] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.LocalizationBundle]
+2024-06-21 13:16:44.472 [SM] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.LocalizationBundle_en]
+2024-06-21 13:16:44.472 [SM] INFO  [JTS-Main] - prohibiting resource lookup [org/jfree/chart/LocalizationBundle_en.properties]
+2024-06-21 13:16:44.472 [SM] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.LocalizationBundle_en_US]
+2024-06-21 13:16:44.473 [SM] INFO  [JTS-Main] - prohibiting resource lookup [org/jfree/chart/LocalizationBundle_en_US.properties]
+2024-06-21 13:16:44.473 [SM] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.plot.LocalizationBundle]
+2024-06-21 13:16:44.473 [SM] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.plot.LocalizationBundle_en]
+2024-06-21 13:16:44.473 [SM] INFO  [JTS-Main] - prohibiting resource lookup [org/jfree/chart/plot/LocalizationBundle_en.properties]
+2024-06-21 13:16:44.473 [SM] INFO  [JTS-Main] - prohibiting class lookup [org.jfree.chart.plot.LocalizationBundle_en_US]
+2024-06-21 13:16:44.473 [SM] INFO  [JTS-Main] - prohibiting resource lookup [org/jfree/chart/plot/LocalizationBundle_en_US.properties]
+2024-06-21 13:16:44.728 [SM] INFO  [JTS-Main] - jfreechart version =1.0.8
+2024-06-21 13:16:44.728 [SM] INFO  [JTS-Main] - jcommon version =1.0.12
+2024-06-21 13:16:44.728 [SM] INFO  [JTS-Main] - JDOMFactory Class =interface org.jdom.JDOMFactory
+2024-06-21 13:16:44.729 [SM] INFO  [JTS-Main] - hsqldb jdbc =class org.hsqldb.jdbcDriver 2.4
+2024-06-21 13:16:44.830 [SM] INFO  [JTS-Main] - LauncherFontUpdater: simulatehighdefscreen=false
+2024-06-21 13:16:44.831 [SM] INFO  [JTS-Main] - LauncherFontUpdater: Screen dimensions=1920x1080
+2024-06-21 13:16:44.831 [SM] INFO  [JTS-Main] - LauncherFontUpdater: highres=false
+2024-06-21 13:16:44.831 [SM] INFO  [JTS-Main] - LauncherFontUpdater: FontSize=16
+2024-06-21 13:16:44.832 [SM] INFO  [JTS-Main] - initPreUI() - entry
+2024-06-21 13:16:44.838 [SM] INFO  [JTS-Main] - Build 10.29.1g, May 21, 2024 4:54:54 PM
+2024-06-21 13:16:44.856 [SM] INFO  [JTS-Main] - LookAndFeelChangedListener installed
+2024-06-21 13:16:44.859 [SM] INFO  [JTS-Main] - JtsLookAndFeel initialized
+2024-06-21 13:16:45.063 [SM] INFO  [JTS-Main] - Current LAF: TWS LAF
+2024-06-21 13:16:45.064 [SM] INFO  [JTS-Main] - initPreUI() - exit
+2024-06-21 13:16:45.075 [SM] INFO  [JTS-MiscUlrsRequester-3] - Connecting ndc1.ibllc.com:4000 timeout=10000...
+2024-06-21 13:16:45.301 [SM] INFO  [JTS-MiscUlrsRequester-3] - Connected to ndc1.ibllc.com:4000/64.190.197.40 remote-ip on local port 0 socket local addrs:port /172.18.0.2:49418
+2024-06-21 13:16:45.301 [SM] INFO  [JTS-MiscUlrsRequester-3] - Updating machine info [connectionAddress=/172.18.0.2]...
+2024-06-21 13:16:45.305 [SM] INFO  [JTS-MiscUlrsRequester-3] - Creating unique random...
+2024-06-21 13:16:45.306 [SM] INFO  [JTS-MiscUlrsRequester-3] - id=94f366f7
+2024-06-21 13:16:45.306 [SM] INFO  [JTS-MiscUlrsRequester-3] - Resolving MAC address...
+2024-06-21 13:16:45.309 [SM] INFO  [JTS-MiscUlrsRequester-3] - MACNetworkInfo created <94f366f7|02:42:AC:12:00:02|172.18.0.2>.
+2024-06-21 13:16:45.320 [SM] INFO  [JTS-MISC URLsListenerS1-4] - Starting listener thread [sessionID=1]...
+2024-06-21 13:16:45.329 [SM] INFO  [JTS-MiscUlrsRequester-3] - Sending MiscUrls request
+2024-06-21 13:16:45.329 [SM] INFO  [JTS-AuthDispatcherS1-5] - Starting dispatcher thread [sessionID=1]...
+2024-06-21 13:16:45.332 [SM] INFO  [JTS-MiscUlrsRequester-3] - LOGIN_TIME_MONITOR	 false 13:16:45:332 since start = 0 thread delay = 0 global delay = 0 tag=null, cls=AuthDispatcher method=send
+2024-06-21 13:16:45.333 [SM] INFO  [JTS-MISC URLsListenerS1-4] - Initial listener buffer size is 65536.
+2024-06-21 13:16:45.333 [SM] INFO  [JTS-AuthResponseMonitor-6] - Starting auth response monitor thread
+2024-06-21 13:16:45.333 [SM] INFO  [JTS-MISC URLsListenerS1-4] - Listener thread [sessionID=1] is ready to process messages.
+2024-06-21 13:16:45.504 [SM] INFO  [JTS-AuthDispatcherS1-5] - Received NS_MISC_URLS
+2024-06-21 13:16:45.512 [SM] INFO  [JTS-AuthDispatcherS1-5] - Install4jAutoUpdateService initialized [props=LauncherProperties[updateDownloadUrl=null,skipUpdateCheck=false,nightlyEnabled=false,channelNameArg=null,channelName=latest,channelChanged=false,jtsConfigDir=/settings,apiPort=null,sessionId=null,installDir=null,exeName=null]].
+2024-06-21 13:16:45.606 [SM] INFO  [JTS-AuthDispatcherS1-5] - IBMiscUrl.miscUrlMessage()[sslRequired=true]
+2024-06-21 13:16:45.609 [SM] INFO  [JTS-AuthDispatcherS1-5] - Misc URL: scope is blank - setting userScope to EXTERNAL
+2024-06-21 13:16:45.609 [SM] INFO  [JTS-AuthDispatcherS1-5] - Misc URL: setting userScope to EXTERNAL
+2024-06-21 13:16:45.613 [SM] INFO  [JTS-AuthDispatcherS1-5] - Disconnecting ndc1.ibllc.com:4000 [disconnectDetails=DisconnectDetails[sessionID=1,endPoint=ndc1.ibllc.com:4000,reason=DISCONNECT_BY_DESIGN,cause=null,systemMessage=null,keepSocketOpen=false]]...
+2024-06-21 13:16:45.613 [SM] INFO  [JTS-MISC URLsListenerS1-4] - Socket or stream for connection ndc1.ibllc.com:4000 was closed by another thread.
+2024-06-21 13:16:45.613 [SM] INFO  [AWT-EventQueue-0] - OvernightManager.dayInit: new values: dayOfTheWeek: 6 (Fri), YYYYMMofToday: 202406, YYYYMMDDofToday: 20240621, m_todayDate: 20240621, dueToChangeInTimezone: false
+2024-06-21 13:16:45.614 [SM] INFO  [JTS-AuthDispatcherS1-5] - Socket closed.
+2024-06-21 13:16:45.615 [SM] INFO  [JTS-AuthDispatcherS1-5] - SocketTracker[name=name=MISC URLs(ndc1.ibllc.com:4000),usesCcpConMan=false,lastReadTimestamp=1718975805500,lastReadDateTime=2024-06-21T13:16:45.500,lastFixSendTime=].
+2024-06-21 13:16:45.615 [SM] INFO  [JTS-AuthDispatcherS1-5] - Interrupting dispatcher [sessionID=1]...
+2024-06-21 13:16:45.615 [SM] INFO  [JTS-AuthDispatcherS1-5] - Interrupting listener [sessionID=1,disconnectSocket=true]...
+2024-06-21 13:16:45.616 [SM] INFO  [JTS-AuthDispatcherS1-5] - Dispatcher thread terminating [sessionID=1,interrupted=true]...
+2024-06-21 13:16:45.616 [SM] INFO  [JTS-MISC URLsListenerS1-4] - Listener thread terminating [sessionID=1] [seen=1159,totalShifted=1159,moreAvailable=0]
+2024-06-21 13:16:45.616 [SM] INFO  [JTS-AuthResponseMonitor-6] - Terminating auth response monitor thread
+2024-06-21 13:16:45.916 [SM] INFO  [AWT-EventQueue-0] - Default timezone:Africa/Abidjan
+2024-06-21 13:16:45.919 [SM] INFO  [AWT-EventQueue-0] - Starting GstatMessageMgr...
+2024-06-21 13:16:45.922 [SM] INFO  [JTS-GstatMessageMgr-9] - Sending a request to GSTAT [url=https://api.ibkr.com/v1/gstat//bulletins,data='{"p":"10291g","t":"Maintenance","tz":"Africa/Abidjan","format":"webapp","theme":"dark","fontSize":"12px","lang":"en"}']...
+2024-06-21 13:16:45.941 [SM] INFO  [AWT-EventQueue-0] - Started on 20240621-13:16:45
+2024-06-21 13:16:45.941 [SM] INFO  [AWT-EventQueue-0] - Default timezone:Africa/Abidjan name:Greenwich Mean Time dst:0
+2024-06-21 13:16:45.941 [SM] INFO  [AWT-EventQueue-0] - java version = 1.8.0_202
+2024-06-21 13:16:45.941 [SM] INFO  [AWT-EventQueue-0] - sun.arch.data.model = 64
+2024-06-21 13:16:45.941 [SM] INFO  [AWT-EventQueue-0] - os = Linux
+2024-06-21 13:16:45.941 [SM] INFO  [AWT-EventQueue-0] - os version = 6.1.80
+2024-06-21 13:16:45.942 [SM] INFO  [AWT-EventQueue-0] - os architecture = 32
+2024-06-21 13:16:45.942 [SM] INFO  [AWT-EventQueue-0] - runtime = Java(TM) SE Runtime Environment
+2024-06-21 13:16:45.942 [SM] INFO  [AWT-EventQueue-0] - vendor = Oracle Corporation
+2024-06-21 13:16:45.942 [SM] INFO  [AWT-EventQueue-0] - vm name = Java HotSpot(TM) 64-Bit Server VM
+2024-06-21 13:16:45.942 [SM] INFO  [AWT-EventQueue-0] - username = 'santobroker'
+2024-06-21 13:16:46.119 [SM] INFO  [AWT-EventQueue-0] - Basic init done. Login window shown
+2024-06-21 13:16:46.489 [SM] INFO  [AWT-EventQueue-0] - Stopping GstatMessageMgr...
+2024-06-21 13:16:46.491 [SM] INFO  [AWT-EventQueue-0] - LoginWindow.onLogin() - request MiscUrls
+2024-06-21 13:16:46.491 [SM] INFO  [AWT-EventQueue-0] - Setting dir is /settings/
+2024-06-21 13:16:46.493 [SM] INFO  [AWT-EventQueue-0] - PROXY Cleared HTTP proxy: no valid proxy is present (passing on :0)
+2024-06-21 13:16:46.503 [SM] INFO  [AWT-EventQueue-0] - host = ndc1.ibllc.com
+2024-06-21 13:16:46.503 [SM] INFO  [AWT-EventQueue-0] - remotePort = 4001
+2024-06-21 13:16:46.504 [SM] INFO  [AWT-EventQueue-0] - localPort = 0
+2024-06-21 13:16:46.508 [SM] INFO  [AWT-EventQueue-0] - SPLASH Creating screen with 16 steps
+2024-06-21 13:16:46.557 [SM] INFO  [AWT-EventQueue-0] - UserCredentials.sessionId() [this=1446755830,old=null,new=66757d3e.0227].
+2024-06-21 13:16:46.557 [SM] INFO  [AWT-EventQueue-0] - CONN CALC: Last connection attempt time is cleared!
+2024-06-21 13:16:46.557 [SM] INFO  [AWT-EventQueue-0] - CONN CALC: Last connection set as now:13:16:46:557
+2024-06-21 13:16:46.558 [SM] INFO  [AWT-EventQueue-0] - Prelogin delay:0
+2024-06-21 13:16:46.559 [SM] INFO  [JTS-Login-11] - Starting launcher login thread
+2024-06-21 13:16:46.560 [SM] INFO  [AWT-EventQueue-0] - Network monitor is activated
+2024-06-21 13:16:46.560 [SM] INFO  [JTS-Login-11] - LauncherLoginThread.runLoginWithUI()[hotBackupStrategy=ON,loginAttempt=1,socketDelay=20000].
+2024-06-21 13:16:46.560 [SM] INFO  [JTS-Login-11] - SPLASH Connecting to server
+2024-06-21 13:16:46.562 [SM] INFO  [JTS-Login-11] - ### startLogin startTime=1718975806557
+2024-06-21 13:16:46.562 [SM] INFO  [JTS-Login-11] - ### loginAttempt loginAttempt=1
+2024-06-21 13:16:46.562 [SM] INFO  [JTS-Login-11] - Connecting ndc1.ibllc.com:4001 (SSL) timeout=20000...
+2024-06-21 13:16:46.562 [SM] INFO  [JTS-Login-11] - ### onSocketOpenStart socketOpenStart=1718975806562; endPoint=ndc1.ibllc.com; port=4001
+2024-06-21 13:16:46.664 [SM] INFO  [JTS-GstatMessageMgr-9] - Received response [errorCode=204,contentLen=-1].
+2024-06-21 13:16:46.676 [SM] INFO  [JTS-Login-11] - ### onSocketOpenEnd socketOpenEnd=1718975806676
+2024-06-21 13:16:46.677 [SM] INFO  [JTS-Login-11] - Connected to ndc1.ibllc.com:4001 (SSL)/64.190.197.40 remote-ip on local port 0 socket local addrs:port /172.18.0.2:36928
+2024-06-21 13:16:46.677 [SM] INFO  [JTS-Login-11] - Updating machine info [connectionAddress=/172.18.0.2]...
+2024-06-21 13:16:46.678 [SM] INFO  [JTS-Login-11] - JTSAuthConnection.onConnected(): lastKnownCipherStatus=INSECURE
+2024-06-21 13:16:46.679 [SM] INFO  [JTS-Login-11] - Changing state for connection from PRELOGON to PRELOGON in B 1558425641: SessionSocket:2
+2024-06-21 13:16:46.679 [SM] INFO  [JTS-Login-11] - Authenticating
+2024-06-21 13:16:46.680 [SM] INFO  [JTS-Login-11] - AuthTimeoutMonitor-CCP: deactivate
+2024-06-21 13:16:46.681 [SM] INFO  [JTS-Login-11] - AuthTimeoutMonitor-CCP: timeout=20000
+2024-06-21 13:16:46.680 [SM] INFO  [JTS-CCPListenerS2-13] - Starting listener thread [sessionID=2]...
+2024-06-21 13:16:46.682 [SM] INFO  [JTS-Login-11] - AuthTimeoutMonitor-CCP: activate
+2024-06-21 13:16:46.683 [SM] INFO  [JTS-Login-11] - SPLASH -0001 step 1 AuthDispatcher.connect
+2024-06-21 13:16:46.684 [SM] INFO  [JTS-Login-11] - Sending connect request
+2024-06-21 13:16:46.686 [SM] INFO  [JTS-AuthDispatcherS2-14] - Starting dispatcher thread [sessionID=2]...
+2024-06-21 13:16:46.687 [SM] INFO  [JTS-AuthTimeoutMonitorThread-CCP-15] - Starting auth timeout monitor thread for CCP
+2024-06-21 13:16:46.688 [SM] INFO  [JTS-Login-11] - AuthDispatcher.initNSMsgVersionLimits: minVersion=38, maxVersion=49
+2024-06-21 13:16:46.689 [SM] INFO  [JTS-Login-11] - AuthDispatcher.NSConnectRequest: userSessionID=66757d3e.0227, beeDemoType=NULL
+2024-06-21 13:16:46.689 [SM] INFO  [JTS-Login-11] - ### onNsMsg loginMessageReq=1718975806689; brandNewUser=false
+2024-06-21 13:16:46.690 [SM] INFO  [JTS-Login-11] - NSConnectRequest: sending CLIENT_USE_SSL=0x80000
+2024-06-21 13:16:46.917 [SM] INFO  [JavaFX Application Thread] - GstatMessagePanel: setup web app is done
+2024-06-21 13:16:47.040 [SM] INFO  [JTS-CCPListenerS2-13] - Initial listener buffer size is 65536.
+2024-06-21 13:16:47.040 [SM] INFO  [JTS-Login-11] - SPLASH Authenticating
+2024-06-21 13:16:47.040 [SM] INFO  [JTS-CCPListenerS2-13] - Listener thread [sessionID=2] is ready to process messages.
+2024-06-21 13:16:47.041 [SM] INFO  [JTS-Login-11] - Terminating launcher login thread
+2024-06-21 13:16:47.153 [SM] INFO  [JTS-AuthDispatcherS2-14] - SPLASH 0470 step 2 AuthDispatcher.processDataItr
+2024-06-21 13:16:47.154 [SM] INFO  [JTS-AuthDispatcherS2-14] - set nsMsgVersion: context=AuthStart; version=49
+2024-06-21 13:16:47.155 [SM] INFO  [JTS-AuthDispatcherS2-14] - Received NS_AUTH_START: 1
+2024-06-21 13:16:47.157 [SM] INFO  [JTS-AuthDispatcherS2-14] - pwd time to expiry ms: 2383400593000 days: 27586
+2024-06-21 13:16:47.157 [SM] INFO  [JTS-AuthDispatcherS2-14] - Long pwd allowed: true
+2024-06-21 13:16:47.158 [SM] INFO  [JTS-AuthDispatcherS2-14] -  NS_AUTH_START version=49 pwd=1 soft=0 token(s)=[token=0] initialTokenType=PWD authenticationType=MARKET_DATA_CONNECTION identityHashcode=733276010
+2024-06-21 13:16:47.159 [SM] INFO  [AWT-EventQueue-0] - SplashScreen: using ads manager
+2024-06-21 13:16:47.160 [SM] INFO  [JTS-AuthDispatcherS2-14] - ### onStartAuthentication
+2024-06-21 13:16:47.160 [SM] INFO  [JTS-AuthDispatcherS2-14] - Starting password Authentication
+2024-06-21 13:16:47.160 [SM] INFO  [JTS-AuthDispatcherS2-14] - ### onXyzAuthQuery
+2024-06-21 13:16:47.161 [SM] INFO  [JTS-AuthDispatcherS2-14] - sendXYZMessage: 777
+2024-06-21 13:16:47.162 [SM] INFO  [JTS-AuthDispatcherS2-14] - UserCredentials.setFrom() [this=1520904691,other=1446755830,old=null,new=66757d3e.0227].
+2024-06-21 13:16:47.164 [SM] INFO  [AWT-EventQueue-0] - AdImageContainer: start build ads UI
+2024-06-21 13:16:47.169 [SM] INFO  [JTS-CachedThreadExecutor-20] - AdManager: NEXT_AD request https://api.ibkr.com/tws.proxy/info/next?platform=dTWS&size=1200x1000&lang=en&version=10291&build=latest
+2024-06-21 13:16:47.170 [SM] INFO  [JTS-CachedThreadExecutor-20] - AdManager: sending request with header X-USERNAME
+2024-06-21 13:16:47.277 [SM] INFO  [JTS-AuthDispatcherS2-14] - Receiver: 777
+2024-06-21 13:16:47.278 [SM] ERROR [JTS-AuthDispatcherS2-14] - ERROR: Received twslaunch.jauthentication.M with userName NOT PRINTED in it - this is not expected
+2024-06-21 13:16:47.278 [SM] INFO  [JTS-AuthDispatcherS2-14] - processXYZMessage: 777, protocol version: 49
+2024-06-21 13:16:47.279 [SM] INFO  [JTS-AuthDispatcherS2-14] - Received AUTH_PARAMS
+2024-06-21 13:16:47.279 [SM] INFO  [JTS-AuthDispatcherS2-14] - ### onXyzAuthParams
+2024-06-21 13:16:47.280 [SM] INFO  [JTS-AuthDispatcherS2-14] - sendXYZMessage: 777
+2024-06-21 13:16:47.394 [SM] INFO  [JTS-AuthDispatcherS2-14] - SPLASH 0241 step 2 AuthDispatcher.processDataItr
+2024-06-21 13:16:47.394 [SM] INFO  [JTS-AuthDispatcherS2-14] - Receiver: 777
+2024-06-21 13:16:47.395 [SM] ERROR [JTS-AuthDispatcherS2-14] - ERROR: Received twslaunch.jauthentication.M with userName NOT PRINTED in it - this is not expected
+2024-06-21 13:16:47.395 [SM] INFO  [JTS-AuthDispatcherS2-14] - processXYZMessage: 777, protocol version: 49
+2024-06-21 13:16:47.395 [SM] INFO  [JTS-AuthDispatcherS2-14] - Received SERVER_PARAMS
+2024-06-21 13:16:47.397 [SM] INFO  [JTS-AuthDispatcherS2-14] - Session Token received in AuthenticationMessageXYZ=d500fXXXXX.., messageId=SERVER_KEY (4)
+2024-06-21 13:16:47.398 [SM] INFO  [JTS-AuthDispatcherS2-14] - sendXYZMessage: 777
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - Receiver: 777
+2024-06-21 13:16:47.510 [SM] ERROR [JTS-AuthDispatcherS2-14] - ERROR: Received twslaunch.jauthentication.M with userName NOT PRINTED in it - this is not expected
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - processXYZMessage: 777, protocol version: 49
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - Received AUTH_RESULT
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - ### onXyzAuthServerProof
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - Passed pwd authentication.
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - Authentication completed.
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - ### onAuthenticationCompleted tokenProtocol=0; authenticated=true
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - setting session token in AuthenticationHandler: authenticationType=MARKET_DATA_CONNECTION hashCode=733276010 new=XYZSessionToken[type=SOFT,token=d500fXXXXX..] old=null ctciOld=null
+2024-06-21 13:16:47.510 [SM] INFO  [JTS-AuthDispatcherS2-14] - ccp session token non-CTCI is set as XYZSessionToken[type=SOFT,token=d500fXXXXX..] 
+2024-06-21 13:16:47.511 [SM] INFO  [JTS-AuthDispatcherS2-14] - Received NS_CONNECT_RESPONSE
+2024-06-21 13:16:47.511 [SM] INFO  [JTS-AuthDispatcherS2-14] - Received CCP connect features: [TST, ONELOGON].
+2024-06-21 13:16:47.511 [SM] INFO  [JTS-AuthDispatcherS2-14] - Log encryption support is enabled [authType=MARKET_DATA_CONNECTION,logKeyId=aaa,logKey=***,logUploadKey=dibggizzul].
+2024-06-21 13:16:47.512 [SM] INFO  [JTS-AuthDispatcherS2-14] - CCP sent paperUser NOT PRINTED for prodUser NOT PRINTED
+2024-06-21 13:16:47.512 [SM] INFO  [JTS-AuthDispatcherS2-14] - UserCredentials.setFrom() [this=1520904691,other=1446755830,old=66757d3e.0227,new=66757d3e.0227].
+2024-06-21 13:16:47.513 [SM] INFO  [JTS-AuthDispatcherS2-14] - AuthDispatcher.newCommPort()[userDirname=pbignpokfdbokepcmgjpmnnkennhhplmlnjilkmc,restart=,authToken=null,ccpToken=XYZSessionToken[type=SOFT,token=d500fXXXXX..]].
+2024-06-21 13:16:47.513 [SM] INFO  [JTS-AuthDispatcherS2-14] - Daily auto-restart is not enabled.
+2024-06-21 13:16:47.514 [SM] INFO  [JTS-AuthDispatcherS2-14] - Sending NSNewcommPort [tokenMask=2,tokens=XYZSessionToken[type=SOFT,token=d500fXXXXX..]],shortTokenHashes=12b60e9d]...
+2024-06-21 13:16:47.547 [SM] INFO  [JTS-CachedThreadExecutor-20] - AdManager: NEXT_AD ad is not available
+2024-06-21 13:16:47.547 [SM] ERROR [JTS-CachedThreadExecutor-20] - AdsManager: get next image failed with status 404
+2024-06-21 13:16:47.548 [SM] INFO  [AWT-EventQueue-0] - AdImageContainer: display regular background image without ads
+2024-06-21 13:16:47.548 [SM] INFO  [AWT-EventQueue-0] - Splashscreen: should not show ads
+2024-06-21 13:16:47.626 [SM] INFO  [JTS-AuthDispatcherS2-14] - SPLASH 0232 step 2 AuthDispatcher.processDataItr
+2024-06-21 13:16:47.626 [SM] INFO  [JTS-AuthDispatcherS2-14] - Received NS_FIX_START
+2024-06-21 13:16:47.626 [SM] INFO  [JTS-AuthDispatcherS2-14] - ### onNsFixStart
+2024-06-21 13:16:47.628 [SM] INFO  [JTS-PostAuthenticateS2-21] - Interrupting dispatcher [sessionID=2]...
+2024-06-21 13:16:47.629 [SM] INFO  [JTS-AuthDispatcherS2-14] - Dispatcher thread terminating [sessionID=2,interrupted=true]...
+2024-06-21 13:16:47.629 [SM] INFO  [JTS-PostAuthenticateS2-21] - AuthTimeoutMonitor-CCP: deactivate
+2024-06-21 13:16:47.629 [SM] INFO  [JTS-AuthTimeoutMonitorThread-CCP-15] - Terminating auth timeout monitor thread for CCP
+2024-06-21 13:16:47.630 [SM] INFO  [JTS-PostAuthenticateS2-21] - Authentication complete
+2024-06-21 13:16:47.630 [SM] INFO  [JTS-PostAuthenticateS2-21] - Creating a FixLogonHandlerFactory instance...
+2024-06-21 13:16:47.631 [SM] INFO  [JTS-PostAuthenticateS2-21] - Instance created.
+2024-06-21 13:16:47.645 [SM] INFO  [JTS-PostAuthenticateS2-21] - jfreechart version =1.0.8
+2024-06-21 13:16:47.645 [SM] INFO  [JTS-PostAuthenticateS2-21] - jcommon version =1.0.12
+2024-06-21 13:16:47.645 [SM] INFO  [JTS-PostAuthenticateS2-21] - JDOMFactory Class =interface org.jdom.JDOMFactory
+2024-06-21 13:16:47.645 [SM] INFO  [JTS-PostAuthenticateS2-21] - hsqldb jdbc =class org.hsqldb.jdbcDriver 2.4
+2024-06-21 13:16:47.647 [SM] INFO  [JTS-PostAuthenticateS2-21] - Changing state for connection from PRELOGON to PRELOGON in B 1558425641: SessionSocket:2
+2024-06-21 13:16:47.647 [SM] INFO  [JTS-PostAuthenticateS2-21] - createOrRenameToNewStyleUserDirectory: no action: use existing newDir=/settings/pbignpokfdbokepcmgjpmnnkennhhplmlnjilkmc
+2024-06-21 13:16:47.656 [SM] INFO  [AWT-EventQueue-0] - initPreUI() - entry
+2024-06-21 13:16:47.657 [SM] INFO  [AWT-EventQueue-0] - jtsLookAndFeel uninitialized
+2024-06-21 13:16:47.658 [SM] INFO  [AWT-EventQueue-0] - JtsLookAndFeel initialized
+2024-06-21 13:16:47.661 [SM] INFO  [JTS-PostAuthenticateS2-21] - performLogSwitch() [force=false]
+2024-06-21 13:16:47.664 [SM] INFO  [AWT-EventQueue-0] - Current LAF: TWS LAF
+2024-06-21 13:16:47.664 [SM] INFO  [AWT-EventQueue-0] - initPreUI() - exit
+2024-06-21 13:16:47.668 [SM] INFO  [JTS-PostAuthenticateS2-21] - Switching to a new encrypted log...
